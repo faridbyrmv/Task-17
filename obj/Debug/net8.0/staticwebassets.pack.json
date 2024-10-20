@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC_1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\Templates\\EmailTemplate.html",
+      "PackagePath": "staticwebassets\\assets\\Templates\\EmailTemplate.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular-2.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular-3.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular-4.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular-5.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular-5.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regular.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regular.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\fonts\\glyphicons-halflings-regulard41d.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\glyphicons-halflings-regulard41d.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\images\\controls.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\controls.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfont93e3.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont93e3.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\blog-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\blog-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\blog-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\company-logo-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\company-logo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\parallax-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\parallax-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\pdf-icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pdf-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\portfolio\\5\\img-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\5\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\post-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\small-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\small-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\small-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\images\\word-icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\word-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\assets\\js\\vendors\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendors\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error-pages\\404.html",
+      "PackagePath": "staticwebassets\\error-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error-pages\\500.html",
+      "PackagePath": "staticwebassets\\error-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\css\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\error\\css\\overlays\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\css\\style.css",
+      "PackagePath": "staticwebassets\\error\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\css\\vegas.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.eot",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.svg",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.svg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.ttf",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.woff",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.woff"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.woff2",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.woff2"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\img\\background-bubble.jpg",
+      "PackagePath": "staticwebassets\\error\\img\\background-bubble.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\error\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\img\\image.jpg",
+      "PackagePath": "staticwebassets\\error\\img\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\img\\logo.png",
+      "PackagePath": "staticwebassets\\error\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\error\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\bubble.js",
+      "PackagePath": "staticwebassets\\error\\js\\bubble.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\error\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\error\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\mozaic.js",
+      "PackagePath": "staticwebassets\\error\\js\\mozaic.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\particles.js",
+      "PackagePath": "staticwebassets\\error\\js\\particles.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\error\\js\\vegas-youtube.js",
+      "PackagePath": "staticwebassets\\error\\js\\vegas-youtube.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vuqar\\source\\repos\\MVC_1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC_1.props",
+      "PackagePath": "build\\MVC_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_1.props",
+      "PackagePath": "buildMultiTargeting\\MVC_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC_1.props",
+      "PackagePath": "buildTransitive\\MVC_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
